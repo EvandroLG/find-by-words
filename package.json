@@ -1,0 +1,23 @@
+{
+  "name": "findByWords",
+  "author": "evandrolg",
+  "repository": "evandrolg/find-by-words",
+  "version": "1.0.0",
+  "main": "search-by-words.js",
+  "keywords": [
+    "algorithm",
+    "js",
+    "search",
+    "words",
+    "binary-search"
+  ],
+  "Licence": "MIT",
+  "devDependencies": {
+    "jshint": "^2.9.x",
+    "mocha": "^3.2.0"
+  },
+
+	"scripts": {
+		"test": "mocha"
+	}
+}
