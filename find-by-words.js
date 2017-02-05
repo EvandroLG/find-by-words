@@ -1,5 +1,5 @@
 var findByWords = function(a, word) {
-	var size = word.length;
+  var size = word.length;
   var first = 0;
   var last = a.length - 1;
   var found = false;
