@@ -1,5 +1,5 @@
 var assert = require('assert');
-var findByWords = require('./search-by-words');
+var findByWords = require('./find-by-words');
 
 describe('find by words', function() {
 

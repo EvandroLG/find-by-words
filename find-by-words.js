@@ -32,4 +32,4 @@ var findByWords = function(a, word) {
   return output;
 };
 
-module.exports = searchByWords;
+module.exports = findByWords;
