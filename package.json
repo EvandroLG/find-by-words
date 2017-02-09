@@ -1,15 +1,16 @@
 {
-  "name": "findByWords",
+  "name": "find-by-words",
   "author": "evandrolg",
   "repository": "evandrolg/find-by-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "search-by-words.js",
   "keywords": [
     "algorithm",
     "js",
     "search",
     "words",
-    "binary-search"
+    "binary-search",
+    "performace"
   ],
   "Licence": "MIT",
   "devDependencies": {
