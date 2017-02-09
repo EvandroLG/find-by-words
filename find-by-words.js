@@ -26,11 +26,11 @@
         output.push(a[middle]);
         var _middle = middle;
 
-        while (a[--_middle].slice(0, size) == word) {
+        while (a[--_middle] && a[_middle].slice(0, size) == word) {
           output.push(a[_middle]);
         }
 
-        while (a[++middle].slice(0, size) == word) {
+        while (a[++middle] && a[middle].slice(0, size) == word) {
           output.push(a[middle]);
         }
 
