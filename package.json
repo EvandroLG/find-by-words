@@ -2,7 +2,7 @@
   "name": "find-by-words",
   "author": "evandrolg",
   "repository": "evandrolg/find-by-words",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "search-by-words.js",
   "keywords": [
     "algorithm",
