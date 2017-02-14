@@ -9,9 +9,14 @@ This implementation is inspired by the [binary search algorithm](https://en.wiki
 npm install find-by-words
 ```
 
+## Parameters
+* **wordsList** <code>Array</code>
+* **word** <code>String</code>
+* **caseSensitive** <code>Boolean</code> (<code>false</code> by default)
+
 ## How to use?
 ```js
-findByWords(['python', 'ruby', 'java', 'javascript', 'lua'], 'java');
+findByWords(['python', 'ruby', 'java', 'javascript', 'lua'], 'Java', true);
 // output: ['java', 'javascript']
 ```
 
